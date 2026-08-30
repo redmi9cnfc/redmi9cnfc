@@ -279,7 +279,7 @@ Routing
 </p>
 
 ## 💻 Terminal
-
+```text
 $ whoami
 Kit
 $ neofetch
@@ -295,6 +295,7 @@ $ systemctl status creativity
    Active: running
 $ echo $MISSION
 BUILD → BREAK → LEARN → FIX → REPEAT
+```
 <p align="center">
 </p><p align="center">
 
