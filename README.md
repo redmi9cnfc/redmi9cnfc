@@ -8,7 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=redmi9cnfc&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/redmi9cnfc?style=for-the-badge&logo=github&label=FOLLOWERS" />
 </p><p align="center">
-  <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+  
+---
+
 </p>
 
 ## 🧑‍💻 About Me
@@ -40,7 +42,10 @@ Game Dev
 Gameplay
 Experiments
 </td></tr>
-</table><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</table><p align="center">
+  
+---
+
 </p>
 
 ## ⚡ Languages
@@ -76,7 +81,10 @@ Experiments
 <td>██████████░░░░░░░░</td>
 </tr></table><p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,cs,bash,javascript,html,css" />
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 📱 Android
@@ -110,7 +118,10 @@ Android Apps
   <img src="https://img.shields.io/badge/Android-AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/ADB%20%2F%20Fastboot-000000?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Root-System%20Modification-8B5CF6?style=for-the-badge" />
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 🐧 Linux & Systems
@@ -131,7 +142,10 @@ DNS
 Routing
 Network Automation
 </td></tr>
-</table><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</table><p align="center">
+
+---
+
 </p>
 
 ## 🎮 Game Development
@@ -141,12 +155,18 @@ Network Automation
 I've worked with C# and Unity for game development and interactive projects.
 "C#" · "Unity Engine" · "Game Development" · "Gameplay" · "Interactive Applications"
 </td></tr>
-</table><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</table><p align="center">
+
+---
+
 </p><p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p><p align="center">
   <code>🐍 Keep coding, keep contributing!</code>
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 🚀 What I Build
@@ -173,23 +193,14 @@ VPN
 DNS
 Routing
 </td></tr>
-</table><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</table><p align="center">
+
+---
+
 </p>
 
-## 🧪 Currently Working On
-╭──────────────────────────────────────────────╮
-│                                              │
-│  📱 Android system modification              │
-│  🔐 Root & system customization              │
-│  🐧 Linux projects                           │
-│  🌐 Networking & OpenWrt                     │
-│  📺 IPTV projects                            │
-│  🐍 Python automation                        │
-│  🟣 Kotlin applications                      │
-│  🎮 C# / Unity experiments                   │
-│                                              │
-╰──────────────────────────────────────────────╯
-<p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+---
+
 </p>
 
 ## 🧠 Tech Arsenal
@@ -216,7 +227,10 @@ Routing
 </tr><tr>
 <td>🛠️ Tools</td>
 <td>GitHub · VS Code · Android Studio · Termux</td>
-</tr></table><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</tr></table><p align="center">
+
+---
+
 </p>
 
 ## 📊 GitHub Statistics
@@ -224,7 +238,10 @@ Routing
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=redmi9cnfc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmi9cnfc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 👾 Pac-Man
@@ -235,21 +252,30 @@ Routing
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/pacman-contribution-graph.svg">
   </picture>
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=redmi9cnfc&theme=tokyonight&hide_border=true" />
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=redmi9cnfc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 💻 Terminal
@@ -270,7 +296,10 @@ $ systemctl status creativity
 $ echo $MISSION
 BUILD → BREAK → LEARN → FIX → REPEAT
 <p align="center">
-</p><p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p><p align="center">
+
+---
+
 </p>
 
 ## 💡 Developer Philosophy
@@ -279,7 +308,10 @@ BUILD → BREAK → LEARN → FIX → REPEAT
 «If it works — find out why.
 If it doesn't work — fix it.
 If nobody made it — build it.»
-<p align="center"> <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+<p align="center">
+
+---
+
 </p><p align="center">
   <b>⚡ Thanks for visiting my profile ⚡</b>
 </p><p align="center">
