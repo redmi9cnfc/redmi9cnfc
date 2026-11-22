@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/redmi9cnfc/Zapret_fix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zapret-fix-dark.svg"><img src="assets/project-zapret-fix-light.svg" width="49%" alt="Zapret_fix"></picture></a>&nbsp;<a href="https://github.com/redmi9cnfc/TV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tv-dark.svg"><img src="assets/project-tv-light.svg" width="49%" alt="TV"></picture></a>
+<a href="https://github.com/redmi9cnfc/Zapret_fix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zapret-fix-dark.svg"><img src="assets/project-zapret-fix-light.svg" width="49%" alt="Zapret_fix"></picture></a>&nbsp;<a href="https://github.com/redmi9cnfc/OpenIPTVApp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tv-dark.svg"><img src="assets/project-tv-light.svg" width="49%" alt="TV"></picture></a>
 
 <a href="https://github.com/redmi9cnfc/Gravity_icons_lsposed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gravity-icons-lsposed-dark.svg"><img src="assets/project-gravity-icons-lsposed-light.svg" width="49%" alt="Gravity_icons_lsposed"></picture></a>&nbsp;<a href="https://github.com/redmi9cnfc/redmi9cnfc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-redmi9cnfc-dark.svg"><img src="assets/project-redmi9cnfc-light.svg" width="49%" alt="redmi9cnfc"></picture></a>
 
