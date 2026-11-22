@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "redmi9cnfc",
-  "seed": "#4A4955",
+  "seed": "#7F7D8B",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -108,9 +108,23 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "source": "manual",
+    "repos": [
+      "OpenIPTVApp",
+      "Gravity_icons_lsposed",
+      "Zapret_fix",
+      "OpenWrt-customizations-on-Protom2025"
+    ],
+    "overrides": {
+      "OpenIPTVApp": {
+        "icon": "brand:kotlin",
+        "shape": "cookie"
+      },
+      "Gravity_icons_lsposed": {
+        "icon": "brand:kotlin",
+        "shape": "cookie12"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
